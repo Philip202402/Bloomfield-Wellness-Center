@@ -1,0 +1,41 @@
+<h2>Our Services & Prices</h2>
+<div class="service-table">
+  <h3>Body Works</h3>
+  <table>
+    <tr><th>Duration</th><th>Price</th></tr>
+    <tr><td>30 min</td><td>$40</td></tr>
+    <tr><td>60 min</td><td>$60</td></tr>
+    <tr><td>90 min</td><td>$90</td></tr>
+  </table>
+
+  <h3>Reflexology</h3>
+  <table>
+    <tr><th>Duration</th><th>Price</th></tr>
+    <tr><td>30 min</td><td>$30</td></tr>
+    <tr><td>60 min</td><td>$50</td></tr>
+    <tr><td>90 min</td><td>$80</td></tr>
+  </table>
+
+  <h3>Couple Massage</h3>
+  <table>
+    <tr><th>Duration</th><th>Price</th></tr>
+    <tr><td>30 min</td><td>$80</td></tr>
+    <tr><td>60 min</td><td>$120</td></tr>
+    <tr><td>90 min</td><td>$180</td></tr>
+  </table>
+
+  <h3>Combo Packages</h3>
+  <table>
+    <tr><th>Package</th><th>Price</th></tr>
+    <tr><td>30 min Body + 30 min Foot</td><td>$60</td></tr>
+    <tr><td>45 min Body + 45 min Foot</td><td>$90</td></tr>
+  </table>
+</div>
+
+<h2>Find Us on the Map</h2>
+<iframe
+  src="https://www.google.com/maps/embed?pb=YOUR_GOOGLE_MAP_URL"
+  allowfullscreen=""
+  loading="lazy"
+  referrerpolicy="no-referrer-when-downgrade"
+></iframe>
